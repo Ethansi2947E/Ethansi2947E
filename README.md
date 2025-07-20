@@ -1,4 +1,4 @@
-# Hey There, I'm Ethan (Ethansi2947E)! 🚀  
+# Hey There, I'm Dante (Ethansi2947E)! 🚀  
 Welcome to my **GitHub universe**!  
 
 I'm a **full-stack developer**, **quant developer**, and **freelance cybersecurity guru** with a passion for building secure, innovative solutions. My expertise lies in crafting robust backends (thanks to my cybersecurity roots), designing sleek frontends, and developing trading systems that crunch numbers like a pro.  
