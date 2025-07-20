@@ -1,4 +1,4 @@
-# Hey There, I'm Dante (Ethansi2947E)! 🚀  
+# Hey There, I'm Ethan (Ethansi2947E)! 🚀  
 Welcome to my **GitHub universe**!  
 
 I'm a **full-stack developer**, **quant developer**, and **freelance cybersecurity guru** with a passion for building secure, innovative solutions. My expertise lies in crafting robust backends (thanks to my cybersecurity roots), designing sleek frontends, and developing trading systems that crunch numbers like a pro.  
@@ -14,9 +14,9 @@ I'm a tech enthusiast who loves tackling complex challenges—whether it's locki
 My **cybersecurity background** gives me a rock-solid foundation in backend development, but I also enjoy crafting **user-friendly frontends** that shine.
 
 ### 🌱 Currently Mastering
-- Advanced Python  
-- Metasploit  
-- Next-level penetration testing techniques  
+- Quant development and algorithmic trading systems  
+- Freelance app development (web & mobile)  
+- Advanced backtesting and optimization for trading bots  
 
 ### 🛠 Certifications
 - **Udacity Nano Degree in Cybersecurity**  
